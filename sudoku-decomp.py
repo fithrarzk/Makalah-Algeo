@@ -1,3 +1,6 @@
+# Name : Muhammad Fithra Rizki
+# NIM : 13523049
+
 import numpy as np
 from scipy.optimize import linprog
 from scipy.linalg import lu, qr, svd
